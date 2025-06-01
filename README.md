@@ -1,12 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mahmoud Baioumy</h1>
-<h3 align="center">🚀 Passionate about Flutter and mobile app development</h3>
 
 <p align="center">
-  <b>📱 I build Mobile Apps</b><br>
-  <b>💙 I love Flutter</b><br>
-  <b>💙 visit my LinkedIn</b><br>
-  <b>🎯 Clean Code Advocate</b><br>
-  <b>💡 Sharing Tips & Tricks</b>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Flutter+Developer;Clean+Code+Lover;Open+Source+Contributor;I+love+building+mobile+apps" alt="Typing SVG" />
 </p>
 
 <p align="left">
